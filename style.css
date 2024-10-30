@@ -1,0 +1,106 @@
+body{
+     background-color: #F2C6D4;
+}
+
+#image{
+    text-align: center;
+    font-size: 3rem;
+
+}
+
+#G{
+    width: 60%;
+}
+
+#hatt{
+    text-align: center;
+    padding-top: 50px;
+    border: 10px solid black;
+
+    width: 50%;
+    height: 50%;
+    position: relative;
+    left: 25%;
+    top: 50px;
+
+    font-family: "Quicksand";
+
+    
+
+    font-size: 2rem;
+    
+    
+    background-color: #B2E1D4;
+
+    
+}
+
+#lan{
+    position: relative;
+    bottom: 30px;
+}
+
+#image h1{
+    font-family: "Pacifico";
+
+}
+#image p{
+    padding-top: 50px;
+    font-family: "Playfair";
+}
+
+#image #hgh{
+    font-family:"Playfair";
+}
+
+#maybe{
+    font-size: 4rem;
+}
+
+#king{
+    font-family: "Playfair";
+    font-size: 5rem;
+}
+
+#ur{
+    text-align: center;
+    padding-top: 50px;
+    border: 10px solid black;
+
+    width: 50%;
+    height: 50%;
+    position: relative;
+    left: 25%;
+    top: 50px;
+
+    font-family: "Quicksand";
+
+    
+
+    font-size: 2rem;
+    
+    
+    background-color: #B2E1D4;
+
+}
+
+#lan2{
+    position: relative;
+    bottom: 30px;
+}
+
+#ki{
+    text-align: center;
+}
+
+
+#ue{
+    text-align: center;
+    font-family: "Lato";
+}
+
+#page3{
+    background-color: #B2E1D4;
+    font-size: 3rem;
+
+}
